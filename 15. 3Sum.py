@@ -1,4 +1,8 @@
 class Solution:
+    '''
+    用了dict(hash)，本质2Sum的内核，实现简单，关键在不能有重复的答案
+    先排序，然后遍历O(n^2),重复按3个和为0，2个和为0，一个和为0的遍历
+    '''
     def threeSum(self, nums: List[int]) -> List[List[int]]:
         d={}
         result=[]
