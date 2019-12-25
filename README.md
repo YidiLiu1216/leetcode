@@ -1,3 +1,3 @@
 # leetcode
 1. 2Sum->3Sum（hash）
-   3Sum Closet->3Sum Smaller(two pointer apporaching)
+   2Sum Less Than K->3Sum Closet->3Sum Smaller(two pointer apporaching)
