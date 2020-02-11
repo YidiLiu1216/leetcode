@@ -10,5 +10,6 @@
 ### math: 
 1. i^0=i;i^i=0;
 ## Problem type
+## Linked list
 ### Cycle:
 1. Linked list cycle
