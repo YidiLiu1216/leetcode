@@ -5,6 +5,7 @@
    2Sum Less Than K->3Sum Closet->3Sum Smaller(two pointer apporaching)
 2. 287. Find the Duplicate Number
 ### two pointer:
+1. Linked list cycle
 ### BF:
 ### DP:
 ### math: 
