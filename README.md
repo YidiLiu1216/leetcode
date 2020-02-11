@@ -11,3 +11,4 @@
 1. i^0=i;i^i=0;
 ## Problem type
 ### Cycle:
+1. Linked list cycle
