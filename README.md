@@ -13,6 +13,6 @@
 ### Linked list
 ## Problem type
 ### Cycle:
-1. Linked list cycle -> Linked list cycyle || （Floyd's Tortoise and Hare）（Hash）
+1. Linked list cycle -> Linked list cycyle || ->Find the duplicate number（Floyd's Tortoise and Hare）（Hash）
 ### n+1 Array with 1-n number
  use:nums[n]
