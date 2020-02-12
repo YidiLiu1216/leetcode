@@ -13,4 +13,4 @@
 ## Problem type
 ## Linked list
 ### Cycle:
-1. Linked list cycle
+1. Linked list cycle -> Linked list cycyle || （Floyd's Tortoise and Hare）（Hash）
