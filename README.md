@@ -11,9 +11,9 @@
 ### math: 
 1. i^0=i;i^i=0;
 ### backtrace
-  recursive prob
-  much choice each step(like a tree)
-  go back
+  (1)recursive prob
+  (2)much choice each step(like a tree)
+  (3)go back
 1. binary watch 
 2. Letter Combinations of a Phone Number
 ### Linked list
