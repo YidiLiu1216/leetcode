@@ -14,7 +14,7 @@
   recursive prob
   much choice each step(like a tree)
   go back
-1.binary watch 
+1. binary watch 
 2. Letter Combinations of a Phone Number
 ### Linked list
 ## Problem type
