@@ -9,7 +9,8 @@
 ### BF:
 ### DP:
 ### math: 
-1. i^0=i;i^i=0;
+1. i^0=i;i^i=0
+2. n&n-1 ex.12. Number of 1 bits
 ### backtrace
   (1) recursive prob
   (2) much choice each step(like a tree)
