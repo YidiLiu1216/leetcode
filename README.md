@@ -11,6 +11,8 @@
 ### math: 
 1. i^0=i;i^i=0
 2. n&n-1 ex.12. Number of 1 bits
+3. 进制转换
+   int(x,2) int(x,8) hex(x,2)//with'0x' bin(x,10)//with '0b' oct(x)//不用标
 ### backtrace
   (1) recursive prob
   (2) much choice each step(like a tree)
