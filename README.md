@@ -13,6 +13,7 @@
 2. n&n-1 ex.12. Number of 1 bits 13. hamming distance
 3. 进制转换
    int(x,2) int(x,8) hex(x,2)//with'0x' bin(x,10)//with '0b' oct(x)//不用标
+4. 异或交换变量 a=a^b,b=a^b,a=a^b;
 ### backtrace
   (1) recursive prob
   (2) much choice each step(like a tree)
