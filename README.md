@@ -10,6 +10,7 @@
 ### DP:
 ### math: 
 1. i^0=i;i^i=0
+   single number->single number 2-> single number3
 2. n&n-1 ex.12. Number of 1 bits 13. hamming distance
 3. 进制转换
    int(x,2) int(x,8) hex(x,2)//with'0x' bin(x,10)//with '0b' oct(x)//不用标
